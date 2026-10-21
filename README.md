@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="stackcraftio — monochrome moonlit shoreline" width="100%" />
+<img src="banner.png" alt="stackcraftio — monochrome moonlit shoreline" width="100%" />
 
 <br />
 
@@ -23,7 +23,7 @@ I enjoy working with Python, building web applications and using machine learnin
 
 </td>
 <td width="32%" valign="middle">
-<img src="assets/ecg-dissertation.png" alt="Monochrome ECG signal artwork" width="100%" />
+<img src="ecg-dissertation.png" alt="Monochrome ECG signal artwork" width="100%" />
 </td>
 </tr></table>
 
@@ -65,13 +65,13 @@ I enjoy working with Python, building web applications and using machine learnin
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/stackcraftio/PulsePredict"><img src="assets/pulsepredict.png" width="100%" alt="PulsePredict monochrome ECG thumbnail" /></a>
+<a href="https://github.com/stackcraftio/PulsePredict"><img src="pulsepredict.png" width="100%" alt="PulsePredict monochrome ECG thumbnail" /></a>
 <br />
 <strong><a href="https://github.com/stackcraftio/PulsePredict">PulsePredict</a></strong><br />
 Cardiovascular risk prediction with machine learning, FastAPI and Streamlit.
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/stackcraftio/SpendScope"><img src="assets/spendscope.png" width="100%" alt="SpendScope monochrome data thumbnail" /></a>
+<a href="https://github.com/stackcraftio/SpendScope"><img src="spendscope.png" width="100%" alt="SpendScope monochrome data thumbnail" /></a>
 <br />
 <strong><a href="https://github.com/stackcraftio/SpendScope">SpendScope</a></strong><br />
 Personal finance dashboard built with Flask, pandas and SQLite.
@@ -79,13 +79,13 @@ Personal finance dashboard built with Flask, pandas and SQLite.
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/stackcraftio/taskflow"><img src="assets/taskflow.png" width="100%" alt="TaskFlow monochrome checklist thumbnail" /></a>
+<a href="https://github.com/stackcraftio/taskflow"><img src="taskflow.png" width="100%" alt="TaskFlow monochrome checklist thumbnail" /></a>
 <br />
 <strong><a href="https://github.com/stackcraftio/taskflow">TaskFlow</a></strong><br />
 Task management web app built using Flask and SQLite.
 </td>
 <td width="50%" valign="top">
-<img src="assets/ecg-dissertation.png" width="100%" alt="Wearable ECG dissertation monochrome thumbnail" />
+<img src="ecg-dissertation.png" width="100%" alt="Wearable ECG dissertation monochrome thumbnail" />
 <br />
 <strong>On-Device Classification of Wearable ECG Signals</strong><br />
 Third-year dissertation project · in progress. Repository to be added when available.
