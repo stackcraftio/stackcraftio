@@ -19,11 +19,15 @@
 <tr>
 <td width="70%" valign="top">
 
-Third-year MEng Biomedical Engineering student exploring software development, data science and medical technology.
+just a little corner of the internet where I keep things I've built.
 
-I enjoy building Python applications and working with machine learning, from web applications to projects focused on healthcare. I previously developed Python tools for cardiac electrophysiology data during a research internship at UCL.
+mostly experimenting with code, trying out ideas and occasionally figuring out why something that worked yesterday suddenly doesn't.
 
-<em>// curious about code, data and the systems behind how things work.</em>
+some projects are practical, some are just for fun. there's always something new to learn.
+
+
+
+<em>// somewhere between curiosity and figuring things out.</em>
 
 </td>
 <td width="30%" valign="top" align="center">
