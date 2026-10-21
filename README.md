@@ -1,123 +1,140 @@
 <div align="center">
 
-<img src="banner.png" alt="stackcraftio — monochrome moonlit shoreline" width="100%" />
+<img src="banner.png" alt="stackcraftio — monochrome ocean banner" width="100%" />
 
-<br />
+<br>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-17191D?style=flat-square&logo=github&logoColor=white)](https://github.com/stackcraftio)
+[![GitHub](https://img.shields.io/badge/GITHUB-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/stackcraftio)
+<!-- Add your real LinkedIn URL below when ready:
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+-->
 
 </div>
 
-<br />
-
-###  &nbsp; hi, i'm stackcraftio
-
-<table><tr>
-<td width="68%" valign="top">
-
-Third-year MEng Biomedical Engineering student exploring software development, data science and medical technology.
-
-I enjoy working with Python, building web applications and using machine learning to solve practical problems. Previously worked on cardiac electrophysiology data during a research internship at UCL.
-
-*curious about code, data and the systems behind how things work.*
-
-</td>
-<td width="32%" valign="middle">
-<img src="ecg-dissertation.png" alt="Monochrome ECG signal artwork" width="100%" />
-</td>
-</tr></table>
-
 ---
 
-###  &nbsp; tech stack
-
-**languages**
-
-![Python](https://img.shields.io/badge/Python-1B1D21?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-1B1D21?style=flat-square&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-1B1D21?style=flat-square&logo=sqlite&logoColor=white)
-
-**frameworks & development**
-
-![Flask](https://img.shields.io/badge/Flask-1B1D21?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-1B1D21?style=flat-square&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-1B1D21?style=flat-square&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-1B1D21?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1B1D21?style=flat-square&logo=githubactions&logoColor=white)
-
-**data & machine learning**
-
-![pandas](https://img.shields.io/badge/pandas-1B1D21?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-1B1D21?style=flat-square&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1B1D21?style=flat-square&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-1B1D21?style=flat-square&logo=pytorch&logoColor=white)
-
-**engineering & visualisation**
-
-![LabVIEW](https://img.shields.io/badge/LabVIEW-1B1D21?style=flat-square&logoColor=white)
-![CAD](https://img.shields.io/badge/CAD-1B1D21?style=flat-square&logoColor=white)
-![ParaView](https://img.shields.io/badge/ParaView-1B1D21?style=flat-square&logoColor=white)
-
----
-
-###  &nbsp; featured projects
+### `01. ── hi, i'm stackcraftio` ✧
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<a href="https://github.com/stackcraftio/PulsePredict"><img src="pulsepredict.png" width="100%" alt="PulsePredict monochrome ECG thumbnail" /></a>
-<br />
-<strong><a href="https://github.com/stackcraftio/PulsePredict">PulsePredict</a></strong><br />
-Cardiovascular risk prediction with machine learning, FastAPI and Streamlit.
+<td width="70%" valign="top">
+
+Third-year MEng Biomedical Engineering student exploring software development, data science and medical technology.
+
+I enjoy building Python applications and working with machine learning, from web applications to projects focused on healthcare. I previously developed Python tools for cardiac electrophysiology data during a research internship at UCL.
+
+<em>// curious about code, data and the systems behind how things work.</em>
+
 </td>
-<td width="50%" valign="top">
-<a href="https://github.com/stackcraftio/SpendScope"><img src="spendscope.png" width="100%" alt="SpendScope monochrome data thumbnail" /></a>
-<br />
-<strong><a href="https://github.com/stackcraftio/SpendScope">SpendScope</a></strong><br />
-Personal finance dashboard built with Flask, pandas and SQLite.
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/stackcraftio/taskflow"><img src="taskflow.png" width="100%" alt="TaskFlow monochrome checklist thumbnail" /></a>
-<br />
-<strong><a href="https://github.com/stackcraftio/taskflow">TaskFlow</a></strong><br />
-Task management web app built using Flask and SQLite.
-</td>
-<td width="50%" valign="top">
-<img src="ecg-dissertation.png" width="100%" alt="Wearable ECG dissertation monochrome thumbnail" />
-<br />
-<strong>On-Device Classification of Wearable ECG Signals</strong><br />
-Third-year dissertation project · in progress. Repository to be added when available.
+<td width="30%" valign="top" align="center">
+<img src="about.png" alt="Black-and-white architectural photography" width="100%" />
+
+<sub><code>building things</code><br><code>learning as i go</code></sub>
 </td>
 </tr>
 </table>
 
 ---
 
-###  &nbsp; github stats
+### `02. ── tech stack` ✧
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<sub>languages</sub>
+
+<img alt="Python" src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=white" />
+<img alt="Java" src="https://img.shields.io/badge/Java-0d1117?style=flat-square" />
+<img alt="SQL" src="https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=sqlite&logoColor=white" />
+
+<br>
+
+<sub>data & analysis</sub>
+
+<img alt="pandas" src="https://img.shields.io/badge/pandas-0d1117?style=flat-square&logo=pandas&logoColor=white" />
+<img alt="NumPy" src="https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=white" />
+<img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img alt="matplotlib" src="https://img.shields.io/badge/matplotlib-0d1117?style=flat-square" />
+
+</td>
+<td width="50%" valign="top">
+
+<sub>frameworks & tools</sub>
+
+<img alt="Flask" src="https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=white" />
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=white" />
+<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=white" />
+<img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-0d1117?style=flat-square&logo=streamlit&logoColor=white" />
+
+<br>
+
+<sub>engineering & other</sub>
+
+<img alt="Git" src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=white" />
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white" />
+<img alt="CAD" src="https://img.shields.io/badge/CAD-0d1117?style=flat-square" />
+<img alt="LabVIEW" src="https://img.shields.io/badge/LabVIEW-0d1117?style=flat-square" />
+
+</td>
+</tr>
+</table>
+
+---
+
+### `03. ── featured projects` ✧
+
+<table>
+<tr>
+<td width="25%" valign="top">
+<a href="https://github.com/stackcraftio/PulsePredict"><img src="pulsepredict.png" width="100%" alt="Monochrome ECG waveform" /></a>
+<br><b><a href="https://github.com/stackcraftio/PulsePredict">PulsePredict</a></b>
+<br><sub>Cardiovascular risk prediction with machine learning, FastAPI and Streamlit.</sub>
+<br><br><sub>● Python</sub>
+</td>
+<td width="25%" valign="top">
+<a href="https://github.com/stackcraftio/SpendScope"><img src="spendscope.png" width="100%" alt="Monochrome night-train photograph" /></a>
+<br><b><a href="https://github.com/stackcraftio/SpendScope">SpendScope</a></b>
+<br><sub>Personal finance dashboard with Flask, SQLite and pandas.</sub>
+<br><br><sub>● Python</sub>
+</td>
+<td width="25%" valign="top">
+<a href="https://github.com/stackcraftio/taskflow"><img src="taskflow.png" width="100%" alt="Monochrome workspace photograph" /></a>
+<br><b><a href="https://github.com/stackcraftio/taskflow">TaskFlow</a></b>
+<br><sub>Task management web app with Flask and SQLite.</sub>
+<br><br><sub>● Python</sub>
+</td>
+<td width="25%" valign="top">
+<img src="ecg-dissertation.png" width="100%" alt="Monochrome brain scan artwork" />
+<br><b>Wearable ECG Classification</b>
+<br><sub>Third-year dissertation: On-Device Classification of Wearable ECG Signals.</sub>
+<br><br><sub>◌ In progress</sub>
+</td>
+</tr>
+</table>
+
+---
+
+### `04. ── currently building` ✧
 
 <div align="center">
 
-<!-- Live widgets provided by third-party services. If one fails, you can remove that line. -->
-<img src="https://github-readme-stats.vercel.app/api?username=stackcraftio&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E6E6E6&text_color=C0C0C0&icon_color=AAAAAA" alt="GitHub statistics for stackcraftio" height="160" />
+`wearable ECG classification`　·　`machine learning`　·　`software projects`
+
+<sub>More projects and research notes will be added here as they develop.</sub>
 
 </div>
 
 ---
 
-###  &nbsp; activity graph
+### `05. ── activity` ✧
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=stackcraftio&bg_color=0D1117&color=CFCFCF&line=999999&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph for stackcraftio" width="100%" />
-
-</div>
+<sub>GitHub's live contribution calendar appears below the pinned repositories on my profile.</sub>
 
 ---
 
 <div align="center">
 
-<sub><i>always learning. always building.</i></sub>
+*always learning. always building.*
 
 </div>
