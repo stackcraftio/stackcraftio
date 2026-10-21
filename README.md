@@ -27,7 +27,7 @@ some projects are practical, some are just for fun. there's always something new
 
 
 
-<ᴇᴍ>// ꜱᴏᴍᴇᴡʜᴇʀᴇ ʙᴇᴛᴡᴇᴇɴ ᴄᴜʀɪᴏꜱɪᴛʏ ᴀɴᴅ ꜰɪɢᴜʀɪɴɢ ᴛʜɪɴɢꜱ ᴏᴜᴛ.</ᴇᴍ>
+<em>// ꜱᴏᴍᴇᴡʜᴇʀᴇ ʙᴇᴛᴡᴇᴇɴ ᴄᴜʀɪᴏꜱɪᴛʏ ᴀɴᴅ ꜰɪɢᴜʀɪɴɢ ᴛʜɪɴɢꜱ ᴏᴜᴛ.</em>
 
 </td>
 <td width="30%" valign="top" align="center">
