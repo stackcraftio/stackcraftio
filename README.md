@@ -1,4 +1,31 @@
-## Hi there 👋
+
+<div align="center">
+
+# stackcraftio
+
+*software · data · biomedical engineering*
+
+</div>
+
+---
+
+### about me
+
+Hey, I'm a Biomedical Engineering student who enjoys programming, working with data and building things.
+
+Currently exploring machine learning, web development and wearable ECG signal classification.
+
+---
+
+### selected projects
+
+- [PulsePredict](https://github.com/stackcraftio/PulsePredict) — Cardiovascular risk prediction
+- [SpendScope](https://github.com/stackcraftio/SpendScope) — Personal finance dashboard
+- [TaskFlow](https://github.com/stackcraftio/taskflow) — Task management app
+
+---
+
+*more projects coming soon.*
 
 <!--
 **stackcraftio/stackcraftio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
