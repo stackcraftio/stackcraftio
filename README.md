@@ -40,7 +40,7 @@ some projects are practical, some are just for fun. there's always something new
 
 ---
 
-###  `𝟶𝟸.       ✧𝚝𝚎𝚌𝚑 𝚜𝚝𝚊𝚌𝚔` ✧
+###  `𝟶𝟸.       ✧ 𝚝𝚎𝚌𝚑 𝚜𝚝𝚊𝚌𝚔` ✧
 
 <table>
 <tr>
