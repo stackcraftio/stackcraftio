@@ -29,7 +29,7 @@ I enjoy working with Python, building web applications and using machine learnin
 
 ---
 
-### 02. &nbsp; tech stack
+###  &nbsp; tech stack
 
 **languages**
 
@@ -60,7 +60,7 @@ I enjoy working with Python, building web applications and using machine learnin
 
 ---
 
-### 03. &nbsp; featured projects
+###  &nbsp; featured projects
 
 <table>
 <tr>
@@ -95,7 +95,7 @@ Third-year dissertation project · in progress. Repository to be added when avai
 
 ---
 
-### 04. &nbsp; github stats
+###  &nbsp; github stats
 
 <div align="center">
 
@@ -106,7 +106,7 @@ Third-year dissertation project · in progress. Repository to be added when avai
 
 ---
 
-### 05. &nbsp; activity graph
+###  &nbsp; activity graph
 
 <div align="center">
 
