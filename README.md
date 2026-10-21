@@ -40,7 +40,7 @@ some projects are practical, some are just for fun. there's always something new
 
 ---
 
-### `02. ── tech stack` ✧
+### `𝟶𝟸. ─ 𝚝𝚎𝚌𝚑 𝚜𝚝𝚊𝚌𝚔` ✧
 
 <table>
 <tr>
@@ -86,7 +86,7 @@ some projects are practical, some are just for fun. there's always something new
 
 ---
 
-### `03. ── featured projects` ✧
+### `𝟶𝟹. - 𝚏𝚎𝚊𝚝𝚞𝚛𝚎𝚍 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜` ✧
 
 <table>
 <tr>
@@ -119,7 +119,7 @@ some projects are practical, some are just for fun. there's always something new
 
 ---
 
-### `04. ── currently building` ✧
+### `𝟶𝟺. ─ 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐` ✧
 
 <div align="center">
 
@@ -131,7 +131,7 @@ some projects are practical, some are just for fun. there's always something new
 
 ---
 
-### `05. ── activity` ✧
+### `𝟶𝟻. ─ 𝚊𝚌𝚝𝚒𝚟𝚒𝚝𝚢` ✧
 
 <sub>GitHub's live contribution calendar appears below the pinned repositories on my profile.</sub>
 
