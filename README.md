@@ -28,6 +28,8 @@ some projects are practical, some are just for fun. there's always something new
 
 
 <em>// ꜱᴏᴍᴇᴡʜᴇʀᴇ ʙᴇᴛᴡᴇᴇɴ ᴄᴜʀɪᴏꜱɪᴛʏ ᴀɴᴅ ꜰɪɢᴜʀɪɴɢ ᴛʜɪɴɢꜱ ᴏᴜᴛ.</em>
+**[✦ Enter the interactive garden ✦](https://stackcraftio.github.io/stackcraftio-lab/)**
+
 
 </td>
 <td width="30%" valign="top" align="center">
